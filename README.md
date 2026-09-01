@@ -11,4 +11,4 @@ formatting pay information by date in a manner that can be used by an online acc
 to track financial activity.
 
 ## How to run
-Provide a login cookie to your for the script. This is not intended to be a fully reproducible project, only a display of my skills. 
+Provide a login cookie to your for the script. This is not intended to be a fully reproducible project, only a display of my abilities. 
